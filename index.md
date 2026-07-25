@@ -1,8 +1,8 @@
-# Privacy Policy — Heat Stress Tool WBGT
+# Privacy Policy — WBGT Monitor
 
 **Effective date: July 23, 2026**
 
-Outdoor WBGT ("the app") is designed to respect your privacy. This policy explains what information the app uses and how.
+WBGT Monitor ("the app") is designed to respect your privacy. This policy explains what information the app uses and how.
 
 ## Summary
 
