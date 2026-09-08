@@ -19,7 +19,7 @@ With your permission, the app accesses your device's location — or a location 
 
 If you subscribe or buy the lifetime upgrade, the purchase is handled by Apple. We record that a purchase occurred to measure the performance of our advertising (see Advertising & Tracking). We never receive your card or payment details.
 
-##Advertising & Tracking
+## Advertising & Tracking
 
 We advertise the app and measure whether those ads lead to installs and purchases. To do this:
 
