@@ -1,6 +1,9 @@
 # Privacy Policy — WBGT Heat
 
-**Effective date: September 7, 2026**
+**Effective date: October 4, 2026**
+
+WBGT Heat is an iPhone app from Peak Latitude LLC — [peaklat.com](https://peaklat.com/).
+The current version of this policy is also published at [peaklat.com/privacy](https://peaklat.com/privacy/).
 
 WBGT Heat ("the app") is designed to respect your privacy. This policy explains what information the app uses and how.
 
@@ -25,6 +28,7 @@ We advertise the app and measure whether those ads lead to installs and purchase
 
 • We use Apple's privacy-preserving Search Ads attribution and SKAdNetwork, which do not identify you.
 • If you grant permission through Apple's App Tracking Transparency prompt, we share advertising and purchase events — including your device's advertising identifier (IDFA) — with Meta (Facebook) to measure and improve our campaigns.
+• We use Google Analytics in the app, linked to Google Ads, to measure which campaigns lead to installs and purchases.
 
 If you decline, we do not track you across other companies' apps and websites, and only the privacy-preserving methods above are used. You can change your choice anytime in iOS Settings → Privacy & Security → Tracking.
 
@@ -35,6 +39,7 @@ These providers receive only the data needed for their function and are governed
 • Open-Meteo — geographic coordinates, to retrieve weather data. https://open-meteo.com/en/terms
 • Apple — place-search queries (MapKit), purchases, and ad attribution. https://www.apple.com/legal/privacy/
 • Meta (Facebook) — advertising and purchase events, and (with your consent) your advertising identifier, for ad measurement. https://www.facebook.com/policy.php
+• Google (Analytics and Ads) — usage data from the app, including IP address, screens viewed, and general device details, used to measure campaign performance. https://policies.google.com/privacy
 • Supabase — hosts the backend that stores install/attribution data. https://supabase.com/privacy
 • Web3Forms — delivers feedback messages you choose to send. https://web3forms.com/privacy
 
@@ -53,3 +58,11 @@ We may update this policy from time to time. Changes will be posted on this page
 ## Contact
 
 Questions about this policy can be sent to: heatstresstool@gmail.com
+
+More about WBGT and heat safety: [peaklat.com](https://peaklat.com/) — [WBGT guides](https://peaklat.com/guides/), [WBGT calculator](https://peaklat.com/wbgt-calculator/), [state heat rules](https://peaklat.com/state-wbgt-rules/).
+
+We may update this policy from time to time. Changes will be posted on this page with an updated effective date.
+
+## Contact
+
+Questions about this policy can be sent to: contact@peaklat.com
